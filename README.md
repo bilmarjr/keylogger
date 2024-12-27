@@ -1,2 +1,2 @@
 # keylogger
- keylogger software with python
+ simple keylogger program with python
